@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Automated-Veterinary-Diagnostics-Assistance/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Veterinary-Diagnostics-Assistance?style=flat-square&color=yellow" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Automated-Veterinary-Diagnostics-Assistance/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Veterinary-Diagnostics-Assistance?style=flat-square&color=yellow" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Veterinary-Diagnostics-Assistance/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Automated-Veterinary-Diagnostics-Assistance?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Veterinary-Diagnostics-Assistance/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Veterinary-Diagnostics-Assistance/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0 1.0" /></a>
@@ -81,94 +81,94 @@ The table below lists leading commercial SaaS and hosted veterinary diagnostics 
 
 Below is a curated list of active open-source repositories advancing veterinary imaging, practice management, disease detection, and clinical informatics.
 
-Repositories are **sorted in descending order by GitHub star count**, with verified star badges linking directly to each repository's stargazers page:
+Repositories are **sorted in descending order by GitHub Stars_Count**, with verified Stars_Badges linking directly to each repository's stargazers page:
 
 ### 1. 🌟 [Project-MONAI / MONAI](https://github.com/Project-MONAI/MONAI)
-[![GitHub stars](https://img.shields.io/github/stars/Project-MONAI/MONAI?style=social&color=white)](https://github.com/Project-MONAI/MONAI/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Project-MONAI/MONAI?style=social&color=white)](https://github.com/Project-MONAI/MONAI/stargazers)
 - **Primary Domain**: Medical & Veterinary Deep Learning Imaging Framework
 - **License**: Apache-2.0 | **Tech Stack**: Python, PyTorch, CUDA
 - **Description**: MONAI (Medical Open Network for AI) is the leading PyTorch-based framework for healthcare imaging. It provides specialized deep learning architectures, transformations, and evaluation metrics used globally by veterinary AI researchers to train segmentation and classification models for animal X-rays, ultrasound, CT, and MRI scans.
 
 ### 2. 🏥 [CARE Janwar (ohcnetwork / care)](https://github.com/ohcnetwork/care)
-[![GitHub stars](https://img.shields.io/github/stars/ohcnetwork/care?style=social&color=white)](https://github.com/ohcnetwork/care/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ohcnetwork/care?style=social&color=white)](https://github.com/ohcnetwork/care/stargazers)
 - **Primary Domain**: Open-Source Animal Healthcare Infrastructure & Public Hospital System
 - **License**: MIT | **Tech Stack**: Python, Django, React, TypeScript, PostgreSQL
 - **Description**: Digital Public Good adapted for veterinary hospitals, rescue clinics, and animal health programs. Features longitudinal multi-animal medical records, clinical encounters, diagnostic lab order tracking, vaccination schedules, inventory and pharmacy management, and field-worker dashboards with native AI drafting hooks.
 
 ### 3. 📊 [VetDataHub / VetDataHub](https://github.com/Vetdatahub/VetDataHub)
-[![GitHub stars](https://img.shields.io/github/stars/Vetdatahub/VetDataHub?style=social&color=white)](https://github.com/Vetdatahub/VetDataHub/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Vetdatahub/VetDataHub?style=social&color=white)](https://github.com/Vetdatahub/VetDataHub/stargazers)
 - **Primary Domain**: Open Veterinary Machine Learning Datasets & Benchmark Registry
 - **License**: Open Data | **Tech Stack**: Python, Markdown, Data Registry
 - **Description**: Community-driven repository dedicated to advancing veterinary medicine through open-access datasets. Aggregates multi-species veterinary clinical data, diagnostic radiograph archives, ultrasound records, and genomic datasets for academic and non-commercial model development.
 
 ### 4. ⚡ [OpenVPM / OpenPIMS (evangauer / openvpm)](https://github.com/evangauer/openvpm)
-[![GitHub stars](https://img.shields.io/github/stars/evangauer/openvpm?style=social&color=white)](https://github.com/evangauer/openvpm/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/evangauer/openvpm?style=social&color=white)](https://github.com/evangauer/openvpm/stargazers)
 - **Primary Domain**: API-First Veterinary Practice Information Management System (PIMS)
 - **License**: Open Source | **Tech Stack**: Go, TypeScript, React, PostgreSQL, Docker
 - **Description**: Modern, self-hostable veterinary PIMS with a developer-first REST API. Includes structured SOAP records, laboratory telemetry integration, prescription drug-interaction verification, appointment scheduling, and native webhooks for connecting ambient AI scribes and diagnostic agent bots.
 
 ### 5. 🤖 [VetClaw (OpenVet-Projects / VetClaw)](https://github.com/OpenVet-Projects/VetClaw)
-[![GitHub stars](https://img.shields.io/github/stars/OpenVet-Projects/VetClaw?style=social&color=white)](https://github.com/OpenVet-Projects/VetClaw/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/OpenVet-Projects/VetClaw?style=social&color=white)](https://github.com/OpenVet-Projects/VetClaw/stargazers)
 - **Primary Domain**: Species-Aware Veterinary AI Skill Library & Agentic CDS
 - **License**: Apache-2.0 | **Tech Stack**: Python, LangChain, openFDA
 - **Description**: The first dedicated veterinary AI skill library for OpenClaw. Offers 51+ species-aware, safety-first clinical skills and openFDA reference clients for automated drug safety screening, diagnostic workup suggestions, and pharmaceutical dosages across companion animals and livestock.
 
 ### 6. 🏷️ [VetTag (yuhui-zh15 / VetTag)](https://github.com/yuhui-zh15/VetTag)
-[![GitHub stars](https://img.shields.io/github/stars/yuhui-zh15/VetTag?style=social&color=white)](https://github.com/yuhui-zh15/VetTag/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/yuhui-zh15/VetTag?style=social&color=white)](https://github.com/yuhui-zh15/VetTag/stargazers)
 - **Primary Domain**: Automated Veterinary Diagnostic Coding via Large Language Models
 - **License**: Academic Research | **Tech Stack**: Python, PyTorch, Hugging Face Transformers
 - **Description**: Official open-source codebase for automated diagnostic code extraction from unstructured veterinary clinical notes. Leverages hierarchical medical language models to map free-text clinical narratives to standardized veterinary diagnostic taxonomies (VeNom and SNOMED-CT).
 
 ### 7. 🐾 [Ababu (oldauntie / ababu)](https://github.com/oldauntie/ababu)
-[![GitHub stars](https://img.shields.io/github/stars/oldauntie/ababu?style=social&color=white)](https://github.com/oldauntie/ababu/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/oldauntie/ababu?style=social&color=white)](https://github.com/oldauntie/ababu/stargazers)
 - **Primary Domain**: Problem-Oriented Multi-Platform Veterinary Practice Management
 - **License**: GPL-3.0 | **Tech Stack**: Python, wxPython, SQLite
 - **Description**: Problem-oriented veterinary software designed to record clinical consultations, diagnostic exams, vaccinations, and surgical procedures with zero vendor lock-in.
 
 ### 8. 🖼️ [Veterinary Image Datasets (kvinicki / Veterinary-image-datasets)](https://github.com/kvinicki/Veterinary-image-datasets)
-[![GitHub stars](https://img.shields.io/github/stars/kvinicki/Veterinary-image-datasets?style=social&color=white)](https://github.com/kvinicki/Veterinary-image-datasets/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/kvinicki/Veterinary-image-datasets?style=social&color=white)](https://github.com/kvinicki/Veterinary-image-datasets/stargazers)
 - **Primary Domain**: Benchmark Index of Veterinary Medical Imaging Datasets
 - **License**: Public Research | **Tech Stack**: Markdown, Dataset Index
 - **Description**: Comprehensive directory indexing public veterinary radiology, histopathology, and ultrasound datasets for training and benchmarking computer vision models on animal anatomy.
 
 ### 9. 🎙️ [VetVoice (georgewangchn / VetVoice)](https://github.com/georgewangchn/VetVoice)
-[![GitHub stars](https://img.shields.io/github/stars/georgewangchn/VetVoice?style=social&color=white)](https://github.com/georgewangchn/VetVoice/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/georgewangchn/VetVoice?style=social&color=white)](https://github.com/georgewangchn/VetVoice/stargazers)
 - **Primary Domain**: Veterinary Speech-to-Text & AI SOAP Note Generator
 - **License**: Open Source | **Tech Stack**: Python, Vue, Whisper AI, Electron
 - **Description**: Smart electronic medical record assistant plugin that transcribes doctor-patient dialogues during veterinary appointments into structured clinical records, cutting administrative charting time.
 
 ### 10. 🦠 [Disease Predictor (abhi-abhi86 / disease-predictor)](https://github.com/abhi-abhi86/disease-predictor)
-[![GitHub stars](https://img.shields.io/github/stars/abhi-abhi86/disease-predictor?style=social&color=white)](https://github.com/abhi-abhi86/disease-predictor/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/abhi-abhi86/disease-predictor?style=social&color=white)](https://github.com/abhi-abhi86/disease-predictor/stargazers)
 - **Primary Domain**: Multi-Species Animal Disease Prediction & Computer Vision
 - **License**: MIT | **Tech Stack**: Python, TensorFlow, OpenCV, Streamlit
 - **Description**: Deep learning system capable of offline disease detection and symptom prediction across companion animals and livestock without requiring cloud API keys.
 
 ### 11. 🐐 [Goat Disease Prediction using AIOT (Biancaa-R / Goat-disease-prediction-using-AIOT-)](https://github.com/Biancaa-R/Goat-disease-prediction-using-AIOT-)
-[![GitHub stars](https://img.shields.io/github/stars/Biancaa-R/Goat-disease-prediction-using-AIOT-?style=social&color=white)](https://github.com/Biancaa-R/Goat-disease-prediction-using-AIOT-/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Biancaa-R/Goat-disease-prediction-using-AIOT-?style=social&color=white)](https://github.com/Biancaa-R/Goat-disease-prediction-using-AIOT-/stargazers)
 - **Primary Domain**: Edge IoT + AI Livestock Disease Surveillance
 - **License**: MIT | **Tech Stack**: Python, ONNX, YOLO, Raspberry Pi, MQTT
 - **Description**: Edge IoT surveillance architecture utilizing wearable sensors and Raspberry Pi-hosted ONNX YOLO models to identify Peste des Petits Ruminants (PPR/Scabby Mouth), Tetanus, and Goat Pox in real time.
 
 ### 12. 🐄 [DISEASE_DETECTOR (im-Amrith / DISEASE_DETECTOR)](https://github.com/im-Amrith/DISEASE_DETECTOR)
-[![GitHub stars](https://img.shields.io/github/stars/im-Amrith/DISEASE_DETECTOR?style=social&color=white)](https://github.com/im-Amrith/DISEASE_DETECTOR/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/im-Amrith/DISEASE_DETECTOR?style=social&color=white)](https://github.com/im-Amrith/DISEASE_DETECTOR/stargazers)
 - **Primary Domain**: Mobile Livestock Skin Condition Diagnostics
 - **License**: Open Source | **Tech Stack**: Python, MobileNetV2, Flask, HTML5
 - **Description**: Lightweight diagnostic web application detecting 7 common livestock skin conditions (including Bovine Respiratory Disease, Contagious Ecthyma, and Lumpy Skin Disease) with instant confidence score readouts.
 
 ### 13. 🦴 [VetFractureAI (alvendherfrancisco / vet-fracture-ai)](https://github.com/alvendherfrancisco/vet-fracture-ai)
-[![GitHub stars](https://img.shields.io/github/stars/alvendherfrancisco/vet-fracture-ai?style=social&color=white)](https://github.com/alvendherfrancisco/vet-fracture-ai/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/alvendherfrancisco/vet-fracture-ai?style=social&color=white)](https://github.com/alvendherfrancisco/vet-fracture-ai/stargazers)
 - **Primary Domain**: Femoral Fracture Detection & AO/OTA Severity Classification
 - **License**: Apache-2.0 | **Tech Stack**: Python, Faster R-CNN (ResNet-50 + FPN V2), FastAPI
 - **Description**: Deep learning system trained on 1,264 canine and feline radiographs to detect femoral shaft fractures and classify them according to AO/OTA fracture standards. Delivers **88.36% mAP@0.5** and **97.83% specificity**.
 
 ### 14. 🐂 [FMD AI Diagnosis System (Ahmet-zmn / FMD)](https://github.com/Ahmet-zmn/FMD)
-[![GitHub stars](https://img.shields.io/github/stars/Ahmet-zmn/FMD?style=social&color=white)](https://github.com/Ahmet-zmn/FMD/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Ahmet-zmn/FMD?style=social&color=white)](https://github.com/Ahmet-zmn/FMD/stargazers)
 - **Primary Domain**: Real-Time Foot and Mouth Disease Detection
 - **License**: Open Access / Research | **Tech Stack**: Python, YOLO11, YOLO26 OBB, PyTorch, ONNX
 - **Description**: Oriented Bounding Box (OBB) computer vision model trained to identify 6 classes of Foot and Mouth Disease lesions (mouth saliva, mouth sores, nail sores, healthy mouth, healthy nails) on cattle.
 
 ### 15. 🐖 [Pig Respiratory Monitor (Willy-chen / pig-respiratory-monitor)](https://github.com/Willy-chen/pig-respiratory-monitor)
-[![GitHub stars](https://img.shields.io/github/stars/Willy-chen/pig-respiratory-monitor?style=social&color=white)](https://github.com/Willy-chen/pig-respiratory-monitor/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Willy-chen/pig-respiratory-monitor?style=social&color=white)](https://github.com/Willy-chen/pig-respiratory-monitor/stargazers)
 - **Primary Domain**: Bioacoustic Piglet Respiratory Distress Detection
 - **License**: Open Research | **Tech Stack**: Python, Audio Spectrogram Transformer (AST), XGBoost
 - **Description**: Acoustic monitoring toolkit using electronic stethoscope recordings and AST embeddings to detect respiratory disease in commercial barn environments with a macro F1 score of 0.8592.
@@ -231,7 +231,7 @@ Contributions from veterinary clinicians, radiologists, bioinformaticians, and s
 
 1. 🍴 **Fork the Repository** on GitHub.
 2. 🌿 **Create a Feature Branch**: `git checkout -b feature/add-new-veterinary-tool`.
-3. 📝 **Update `README.md`**: Follow the established table formatting for SaaS platforms (with explicit pricing and free trial limits) or open-source entries (including social star badge linked to stargazers).
+3. 📝 **Update `README.md`**: Follow the established table formatting for SaaS platforms (with explicit pricing and free trial limits) or open-source entries (including social Stars_Badge linked to stargazers).
 4. ✅ **Ensure Standards**: Verify factual descriptions, valid HTTPS links, and avoid unsubstantiated marketing claims.
 5. 🚀 **Submit a Pull Request** with a clear explanation of the clinical utility.
 
